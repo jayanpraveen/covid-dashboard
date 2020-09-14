@@ -7,9 +7,9 @@ A simple Dashboard using __Voila__ and __Folium__.
 >Folium is a python library which is used to create different types of geographical data visualizations including maps.
 ***
 ## Images:
-![FullView](/Images/full_view.png)
+![FullView](/assets/full_view.png)
 
-![FullView](/Images/India.png)
+![FullView](/assets/India.png)
 
 
 
