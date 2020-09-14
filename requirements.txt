@@ -1,7 +1,5 @@
 voila
 voila-material
-pandas
 plotly
 folium
-matplotlib
 numpy
