@@ -18,10 +18,19 @@ You can install them by typing following code in your terminal in the repository
 pip install -r requirements.txt
 ```
 ## Images:
+
+## World Map:
+
 ![FullView](/assets/full_view.png)
 
 ![India](/assets/India.png)
 
+## India District-wise Map
+![district-1](/assets/district-1.png)
+
+![district-2](/assets/district-2.png)
+
+## Heat Map
 ![HeatMap](/assets/HeatMap.PNG)
 
 ## Resource Data:
