@@ -19,13 +19,12 @@ pip install -r requirements.txt
 ```
 ## Images:
 
-## World Map:
+## World view:
 
 ![FullView](/assets/full_view.png)
 
-![India](/assets/India.png)
 
-## India District-wise Map
+## India District-wise view
 ![district-1](/assets/district-1.png)
 
 ![district-2](/assets/district-2.png)
