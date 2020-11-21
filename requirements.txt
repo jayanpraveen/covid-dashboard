@@ -3,3 +3,5 @@ voila-material
 plotly
 pandas
 folium
+matplotlib
+ipywidgets
