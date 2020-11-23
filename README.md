@@ -1,11 +1,11 @@
 # Covid-Dashboard
 Deployed Dashboard: https://dashboard-covid-19-jp.herokuapp.com
 ***
-A simple dashboard showing the spread of covid-19 using World map and Heat map.
+An interactive dashboard showing the spread of covid-19 using World map and Heat map.
 
 ## Installation and Usage:
 
-Download and extract the source code and run ```Main.ipynb``` in the notebook folder.
+Download and extract the source code and run `Main.ipynb` in the notebook folder.
 
 You can also clone the repository using:
 ```
@@ -21,20 +21,23 @@ pip install -r requirements.txt
 
 ## World view:
 
-![FullView](/assets/full_view.png)
+![FullView](/assets/new/World.png)
 
 
 ## India District-wise view
 ![district-1](/assets/district-1.png)
 
-![district-2](/assets/district-2.png)
+![district-2](/assets/new/India-zoom-in.png)
+
+## Ploted Graph
+![HeatMap](/assets/new/Plot.png)
 
 ## Heat Map
-![HeatMap](/assets/HeatMap.PNG)
+![HeatMap](/assets/new/HeatMap.png)
 
 ## Resource Data:
 https://github.com/CSSEGISandData/COVID-19
 
 ## License 
 
-This repository is under The MIT License. Read the [LICENSE](https://github.com/jayanpraveen/covid-dashboard/blob/master/LICENSE.md) file for more information.
+This repository is under The MIT License. Read the [LICENSE](https://github.com/jayanpraveen/covid-dashboard/blob/master/.github/LICENSE.md) file for more information.
