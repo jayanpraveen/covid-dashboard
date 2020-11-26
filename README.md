@@ -38,6 +38,8 @@ pip install -r requirements.txt
 ## Resource Data:
 https://github.com/CSSEGISandData/COVID-19
 
-## License 
+## Disclaimer
+The information displayed may or may not be accurate, all resource data used in this repository have been provided by the [source](https://github.com/CSSEGISandData/COVID-19).
 
+## License 
 This repository is under The MIT License. Read the [LICENSE](https://github.com/jayanpraveen/covid-dashboard/blob/master/.github/LICENSE.md) file for more information.
